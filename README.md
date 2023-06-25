@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “GUIcomponent”.
-Developed by: N.SIDDARTHAN
-Registration Number: 212221040154
+Developed by: KATHIR V.S
+Registration Number: 212221040075
 */
 ```
 activity_main.xml :
@@ -48,7 +48,7 @@ activity_main.xml :
         android:layout_margin="30dp"
         android:layout_marginTop="296dp"
         android:gravity="center"
-        android:text="Hello Siddarthan!"
+        android:text="Hello Kathir!"
         android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button1"

@@ -152,9 +152,9 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-![image](https://github.com/Siddarthan999/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/91734840/6b3062a0-7f0c-4590-8e7c-1c5b168cdc3c)
-![image](https://github.com/Siddarthan999/MAD-EXP-2-To-develop-an-application-that-uses-GUI-Components-with-Fonts-and-Colors/assets/91734840/d58fca9f-43f9-4731-9303-a146fdd66f5a)
 
+![WhatsApp Image 2023-06-06 at 16 31 15](https://github.com/Kathir-2703/MAD-EXP-2/assets/64436376/68dc3c4c-cd05-4ce0-8439-12e8cc9e68c8)
+![WhatsApp Image 2023-06-06 at 16 31 11](https://github.com/Kathir-2703/MAD-EXP-2/assets/64436376/c0530193-0308-4ad3-95a7-1dc0c8d0ba22)
 
 ## RESULT
 Thus, a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
